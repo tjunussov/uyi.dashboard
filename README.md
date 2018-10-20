@@ -1,6 +1,5 @@
-# sortrack
-
-> Sorting Track
+# UYI Dashboard
+Home Automation Dashboard Demo ( HMI ) v1
 
 ## Build Setup
 
